@@ -31,7 +31,7 @@ Sales Overview: Monthly revenue, daily orders, and top-performing categories.
 Customer Insights: First-time vs repeat buyers, customer retention trends.
 
 Location Analysis: City-wise performance and delivery efficiency.
-
+  
 Product Analysis: SKU-level contribution, high-selling items by category.
 
 Interactive Filters: View KPIs by city, product type, time period, and customer class.
