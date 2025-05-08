@@ -1,4 +1,4 @@
-🛒 Blinkit Sales & Customer Analytics Dashboard
+# 🛒 Blinkit Sales & Customer Analytics Dashboard
 An end-to-end business intelligence solution to analyze Blinkit’s sales, customer behavior, and operational performance using Power BI.
 
 📌 Project Overview
